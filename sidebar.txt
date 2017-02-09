@@ -17,3 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/kjg|Ethnologue data]]
 
+
+**Resources**
+
+  * [[kjg:obs|Open Bible Stories (kjg)]]
